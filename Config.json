@@ -1,0 +1,17 @@
+{
+    "raspberrypi_sensors": {
+      "hall_sensor": {
+        "direction_pin": 23,
+        "type": "digital"
+      },
+      "water_meter": {
+        "flow_pin": 13,
+        "type": "digital"
+      },
+      "rpm_sensor": {
+        "rpm_pin": 24,
+        "type": "digital"
+      }
+    }
+  }
+  

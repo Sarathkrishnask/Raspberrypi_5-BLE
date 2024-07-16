@@ -1,0 +1,9 @@
+2024-07-16 00:54:57,564 - Device connected: /org/bluez/hci0/dev_59_2A_87_9F_94_78
+2024-07-16 00:55:03,265 - Device disconnected: /org/bluez/hci0/dev_59_2A_87_9F_94_78
+2024-07-16 02:07:36,545 - {'raspberrypi_sensors': {'hall_sensor': {'direction_pin': 23, 'type': 'digital'}, 'water_meter': {'flow_pin': 13, 'type': 'digital'}, 'rpm_sensor': {'rpm_pin': 24, 'type': 'digital'}}}
+2024-07-16 02:07:36,551 - {'raspberrypi_sensors': {'hall_sensor': {'direction_pin': 23, 'type': 'digital'}, 'water_meter': {'flow_pin': 13, 'type': 'digital'}, 'rpm_sensor': {'rpm_pin': 24, 'type': 'digital'}}}
+2024-07-16 02:07:50,738 - Device disconnected: /org/bluez/hci0/dev_44_AB_6A_06_E0_26
+2024-07-16 02:07:53,348 - Device connected: /org/bluez/hci0/dev_44_AB_6A_06_E0_26
+2024-07-16 04:12:16,675 - {'raspberrypi_sensors': {'hall_sensor': {'direction_pin': 23, 'type': 'digital'}, 'water_meter': {'flow_pin': 13, 'type': 'digital'}, 'rpm_sensor': {'rpm_pin': 24, 'type': 'digital'}}}
+2024-07-16 04:12:16,691 - {'raspberrypi_sensors': {'hall_sensor': {'direction_pin': 23, 'type': 'digital'}, 'water_meter': {'flow_pin': 13, 'type': 'digital'}, 'rpm_sensor': {'rpm_pin': 24, 'type': 'digital'}}}
+2024-07-16 04:18:53,976 - Device disconnected: /org/bluez/hci0/dev_50_83_EF_18_24_FE
